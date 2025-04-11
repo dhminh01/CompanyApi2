@@ -9,6 +9,9 @@ This project is a simple example of using Entity Framework Core (EF Core) with a
 - ASP.NET Core Web API
 - Entity Framework Core for database access
 - .NET 8 compatibility
+- CRUD for all entities
+- Raw SQL
+- Did not have transaction yet
 
 ## Prerequisites
 
